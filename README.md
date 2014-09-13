@@ -1,3 +1,11 @@
+![Roll Tide!](apple-touch-icon-precomposed.png)
+
+# rollti.de
+
+Roll tide roll.
+
+## License
+
 The MIT License (MIT)
 
 Copyright (c) 2014 Chris Nager
